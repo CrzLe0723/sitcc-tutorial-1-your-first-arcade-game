@@ -1,5 +1,6 @@
 {
     "name": "SITCC Tutorial 1: Your First Arcade Game",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
