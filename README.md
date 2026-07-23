@@ -1,3 +1,2 @@
-## NOTCIE OF USE:
+## NOTCIE OF PROJECT:
 This project is a tutorial used for the SITCC
-No others may edit or change this tutorial
