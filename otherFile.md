@@ -2,6 +2,7 @@
 
 Welcome to your first MakeCode Arcade game!
 
+
 In this tutorial, you'll build a complete game from scratch.
 
 By the end, you'll have:
@@ -9,6 +10,9 @@ By the end, you'll have:
 - 🗺️ A map to explore
 - 💎 A treasure to collect
 - 👾 An enemy to avoid
+
+![Example of the finished game](images/welcome.png)
+
 
 Click **Next** when you're ready!
 
