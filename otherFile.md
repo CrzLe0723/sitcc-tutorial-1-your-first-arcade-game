@@ -1,5 +1,4 @@
 # First Game 
-# @showdialog
 
 Welcome to your first MakeCode Arcade game!
 
