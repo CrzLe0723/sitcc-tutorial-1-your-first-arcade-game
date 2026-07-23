@@ -1,6 +1,6 @@
 # First Game
 
-## Welcome @showdialog
+## Welcome 
 
 Welcome to your first MakeCode Arcade game!
 
@@ -14,7 +14,7 @@ let hero = sprites.create(img`
 
 ## Create the Player
 
-# @showhint
+
 
 Create your player sprite.
 
