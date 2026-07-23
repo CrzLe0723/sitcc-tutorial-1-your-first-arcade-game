@@ -18,7 +18,7 @@ By the end of this tutorial, you will know how to:
 
 Click the link below to open the interactive MakeCode Arcade tutorial:
 
-[Open Tutorial](https://arcade.makecode.com/#tutorial:github:CrzLe0723/sitcc-tutorial-1-your-first-arcade-game/tutorial)
+[Open Tutorial](https://arcade.makecode.com/app/5771ab511bd5151e6aa133adfdb69d8392fb7138-71509d0054#tutorial:github:crzle0723/sitcc-tutorial-1-your-first-arcade-game/otherFile)
 
 ## Requirements
 
